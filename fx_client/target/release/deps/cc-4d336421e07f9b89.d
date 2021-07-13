@@ -1,0 +1,12 @@
+C:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\release\deps\cc-4d336421e07f9b89.rmeta: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs
+
+C:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\release\deps\libcc-4d336421e07f9b89.rlib: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs
+
+C:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\release\deps\cc-4d336421e07f9b89.d: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs
+
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs:

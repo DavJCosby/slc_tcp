@@ -1,0 +1,12 @@
+c:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\debug\deps\bevy_input-17ee7993a63edcfd.rmeta: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\axis.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\gamepad.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\input.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\keyboard.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\mouse.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\system.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\touch.rs
+
+c:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\debug\deps\bevy_input-17ee7993a63edcfd.d: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\axis.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\gamepad.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\input.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\keyboard.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\mouse.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\system.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\touch.rs
+
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\lib.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\axis.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\gamepad.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\input.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\keyboard.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\mouse.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\system.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\touch.rs:

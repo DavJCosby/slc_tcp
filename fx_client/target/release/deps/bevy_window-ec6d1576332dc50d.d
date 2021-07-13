@@ -1,0 +1,11 @@
+C:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\release\deps\bevy_window-ec6d1576332dc50d.rmeta: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\event.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\system.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\window.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\windows.rs
+
+C:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\release\deps\libbevy_window-ec6d1576332dc50d.rlib: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\event.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\system.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\window.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\windows.rs
+
+C:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\release\deps\bevy_window-ec6d1576332dc50d.d: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\event.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\system.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\window.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\windows.rs
+
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\lib.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\event.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\system.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\window.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.5.0\src\windows.rs:

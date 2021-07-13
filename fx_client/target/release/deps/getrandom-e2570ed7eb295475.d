@@ -1,0 +1,11 @@
+C:\Users\u1294088\Documents\GitHub\slc\final_setup\fx_client\target\release\deps\getrandom-e2570ed7eb295475.rmeta: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\util.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error_impls.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\windows.rs
+
+C:\Users\u1294088\Documents\GitHub\slc\final_setup\fx_client\target\release\deps\libgetrandom-e2570ed7eb295475.rlib: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\util.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error_impls.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\windows.rs
+
+C:\Users\u1294088\Documents\GitHub\slc\final_setup\fx_client\target\release\deps\getrandom-e2570ed7eb295475.d: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\util.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error_impls.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\windows.rs
+
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\lib.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\util.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\error_impls.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.3\src\windows.rs:

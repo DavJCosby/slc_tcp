@@ -1,0 +1,9 @@
+c:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\debug\deps\gfx_backend_empty-561547e95c4100d2.rmeta: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\buffer.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\descriptor.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\image.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\memory.rs
+
+c:\Users\u1294088\Documents\GitHub\slc\webserver_playground\target\debug\deps\gfx_backend_empty-561547e95c4100d2.d: C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\lib.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\buffer.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\descriptor.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\image.rs C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\memory.rs
+
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\lib.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\buffer.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\descriptor.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\image.rs:
+C:\Users\u1294088\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx-backend-empty-0.7.0\src\memory.rs:
