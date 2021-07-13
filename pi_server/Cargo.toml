@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 rs_ws281x = "0.4.2"
-slc = { path = "../../crates/slc" }
-networking = {path = "../../crates/networking"}
+slc = { git = "https://github.com/DavidCosbyUofU/slc" }
+networking = {path = "../networking"}
